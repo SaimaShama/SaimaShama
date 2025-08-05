@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Saima Sharmin Shama </h1>
+<h1 align="center">Hi 👋! My name is Saima Sharmin Shama </h1>
 <h2> I'm a Undergraduate Student from BAIUST and passionate frontend developer from Bangladesh </h2>
 
 ###
